@@ -1,1 +1,1 @@
-My first readme
+My pseudo commikt
